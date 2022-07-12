@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1390/screenshots/2112301/media/1a9f5bf35c3fdad7eafffff293e0b579.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adminsanderson&label=Profile%20views&color=0e75b6&style=flat" alt="adminsanderson" /> </p>
-
 - 🔭 I’m currently working on [Maria](https://github.com/adminSanderson/Maria)
 
 - 🌱 I’m currently learning **Python**
