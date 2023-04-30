@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*IRGB-4OAoO8KSqH_huDPFw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1390/screenshots/2112301/media/1a9f5bf35c3fdad7eafffff293e0b579.gif">
 
 - 🔭 I’m currently working on [Chloe](https://github.com/adminSanderson/Chloe-voice-assistant)
