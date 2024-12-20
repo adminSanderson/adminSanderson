@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1390/screenshots/2112301/media/1a9f5bf35c3fdad7eafffff293e0b579.gif">
 
-- 🔭 I’m currently working on [Chloe](https://github.com/adminSanderson/Chloe-voice-assistant)
+- 🔭 I’m currently working on [lowi coin](https://github.com/adminSanderson/lowicoin)
 
 - 🌱 I’m currently learning **Python**
 
